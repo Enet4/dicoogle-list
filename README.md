@@ -1,6 +1,8 @@
 Dicoogle File Lister
 ====================
 
+[![Build Status](https://travis-ci.org/Enet4/dicoogle-list.svg?branch=master)](https://travis-ci.org/Enet4/dicoogle-list)
+
 This is a plugin for Dicoogle that provides a web service for storage listing.
 
 Building

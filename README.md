@@ -17,7 +17,7 @@ mvn install
 Installing
 ----------
 
-Pass the jar file with dependencies, named with the pattern "lisst-vvvvvv-jar-with-dependencies.jar",
+Pass the jar file with dependencies, named with the pattern "list-{vvvvvv}-jar-with-dependencies.jar",
 to the "Plugins" folder in Dicoogle's working directory.
 
 Configuring

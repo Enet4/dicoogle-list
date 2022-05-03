@@ -1,7 +1,7 @@
 Dicoogle File Lister
 ====================
 
-[![Build Status](https://travis-ci.org/Enet4/dicoogle-list.svg?branch=master)](https://travis-ci.org/Enet4/dicoogle-list)
+[![Java CI with Maven](https://github.com/Enet4/dicoogle-list/actions/workflows/maven.yml/badge.svg)](https://github.com/Enet4/dicoogle-list/actions/workflows/maven.yml)
 
 This is a plugin for Dicoogle that provides a web service for storage listing.
 
